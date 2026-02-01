@@ -29,3 +29,31 @@ The work follows a three-step thinking process:
 
 ## 📁 Repository Structure
 
+---
+
+## 🤖 AI Usage Philosophy
+
+AI is used as a **thinking partner**, not an answer generator.
+
+Prompts are designed to:
+- Surface contradictions
+- Simulate scenarios
+- Stress-test assumptions
+
+All judgments and synthesis remain human-led.
+
+---
+
+## 🎯 Core Insight
+
+> Growth stalls not because of lack of effort,  
+> but because decision rights, systems, and identity fail to evolve with scale.
+
+---
+
+## 👤 Author
+
+Mohd Ashraf Khan  
+Aspiring Growth Consultant | Data & Systems Thinker  
+India
+
